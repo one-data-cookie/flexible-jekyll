@@ -1,3 +1,5 @@
+.bundle
+.jekyll-cache
 _site
 .sass-cache
 .jekyll-metadata
@@ -7,7 +9,7 @@ package-lock.json
 node_modules/
 
 ### macOS ###
-*.DS_Store
+.DS_Store
 .AppleDouble
 .LSOverride
 
