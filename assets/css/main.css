@@ -948,9 +948,6 @@ table tfoot td {
 }
 
 /* Sidebar nav */
-.sidebar-nav {
-  margin-bottom: 1rem;
-}
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
@@ -963,7 +960,7 @@ a.sidebar-nav-item:focus {
 
 .about {
   margin: 0 0 40px;
-  height: 250px;
+  height: 55%;
   text-align: left;
 }
 
@@ -979,7 +976,7 @@ a.sidebar-nav-item:focus {
 
 .about p {
   font-size: 23px;
-  margin: 0 0 10px;
+  margin: 0 0 25px;
   color: #858585;
   text-align: left;
 }
@@ -987,7 +984,7 @@ a.sidebar-nav-item:focus {
 hr.contact-line {
     background-color: #858585;
     justify-content: center;
-    margin-top: 100%;
+    margin-top: 40px;
     width: 75%;
     height: 1px;
     border-width: 0px;
@@ -1294,9 +1291,9 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1023px) {
   .post {
-    width: 48%;
+    width: 100%;
     max-width: 100%;
     margin: 0 0.9% 1.5%;
     -webkit-box-orient: vertical;
@@ -1320,7 +1317,7 @@ a.newer-posts:hover {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   .sidebar {
     position: relative;
     display: -webkit-box;
@@ -1337,8 +1334,6 @@ a.newer-posts:hover {
         -ms-flex-pack: justify;
             justify-content: space-between;
     width: 100%;
-    padding: 10px;
-    background-color: #ffffff;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
@@ -1346,16 +1341,12 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
   .about {
-    text-align: center;
     max-width: 500px;
     margin: 10px auto auto;
   }
-  .about img {
-    width: 100px;
-    height: 100px;
-    -webkit-border-radius: 100%;
-            border-radius: 100%;
-    margin-bottom: 10px;
+  .sidebar-nav-item {
+    max-width: 500px;
+    margin: 10px auto auto;
   }
   .content-box {
     padding: 20px 10px;
@@ -1375,9 +1366,6 @@ a.newer-posts:hover {
     -webkit-align-items: stretch;
         -ms-flex-align: stretch;
             align-items: stretch;
-  }
-  .contact-title, .copyright {
-    display: none;
   }
 }
 
