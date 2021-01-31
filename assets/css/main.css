@@ -1034,6 +1034,11 @@ hr.contact-line {
           align-items: stretch;
 }
 
+.content-box a {
+  color: #515151;
+  text-decoration: underline;
+}
+
 .post {
   width: 100%;
   max-width: 100%;
