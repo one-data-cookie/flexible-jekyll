@@ -19,6 +19,5 @@ Constantly developing myself and having been actively involved in several educat
 I, **Events Enthusiast**.\\
 Helping increase audience interaction at [Slido](https://www.slido.com/) and having led teams to organise numerous events, I believe in their power to shift mindsets through impactful experience.
 
----
-
+<hr style="width:100%; margin-top: 40px;">
 *Interested in more and/or up for a chat? Then drop me a line on my [LinkedIn](https://linkedin.com/in/{{ site.social-linkedin }}) (or anywhere else)!*
