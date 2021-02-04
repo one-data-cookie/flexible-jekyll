@@ -890,7 +890,6 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1440px;
   position: relative;
 }
 
@@ -1009,8 +1008,7 @@ hr.contact-line {
 }
 
 .content-box {
-  padding: 20px;
-  padding-left: 450px;
+  padding: 40px 75px 0px 425px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1091,7 +1089,7 @@ hr.contact-line {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 29px;
+  font-size: 27px;
   font-weight: 400;
 }
 
@@ -1309,7 +1307,7 @@ a.newer-posts:hover {
     width: 100%;
   }
   .post .post-content .post-title {
-    margin: 0 0 5px;
+    line-height: 1.15;
   }
   .post .post-content .post-title a {
     font-size: 21px;
@@ -1389,17 +1387,5 @@ a.newer-posts:hover {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
-  }
-  .post .post-thumbnail {
-    width: 100%;
-  }
-  .post .post-content {
-    width: 100%;
-  }
-  .post .post-content .post-title {
-    margin: 0 0 5px;
-  }
-  .post .post-content .post-title a {
-    font-size: 21px;
   }
 }
