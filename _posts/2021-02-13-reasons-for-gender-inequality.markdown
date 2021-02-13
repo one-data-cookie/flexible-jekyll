@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Renewables Overtake Fossil and Nuclear
-date: 2021-02-10
-description: MakeoverMonday 2021/W5 about electricity production in Europe
-img: renewables-overtake-fossil-and-nuclear.png
-tags: [europe, environment, makeovermonday]
-original: https://media.data.world/QavAWlYjQf6TqHDlr0V1_image.png
-makeover: https://public.tableau.com/views/ProportionPlotTemplatev2_16129096263160/RenewablesOvertakeFossilandNuclear?:language=en-GB&:display_count=y&:origin=viz_share_link
+title: Perceived Obstacles to Gender Equality
+date: 2021-02-13
+description: MakeoverMonday 2021/W6 about a survey on gender equality
+img: perceived-obstacles-to-gender-equality.png
+tags: [global, equality, makeovermonday]
+original: https://media.data.world/cbmhDXgFR5yk4LvyA9JM_Viz%20for%20Makeover%20-%20Perceived%20Obstacles%20to%20Gender%20Equality%20Focus%202030%20%20Women%20Deliver%20Data.png
+makeover: https://public.tableau.com/views/PerceivedObstaclestoGenderEquality_16132189480040/PerceivedObstaclestoGenderEquality?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
 ---
